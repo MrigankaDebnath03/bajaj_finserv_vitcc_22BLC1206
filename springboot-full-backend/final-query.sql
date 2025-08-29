@@ -1,3 +1,0 @@
--- Put your final SQL query here.
--- Example:
--- SELECT emp_id, name FROM employees WHERE salary > 50000;
